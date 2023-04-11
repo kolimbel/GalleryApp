@@ -33,3 +33,8 @@ The app requests the READ_EXTERNAL_STORAGE permission to access the phone's gall
 Add search functionality to search for specific images.
 Add support for videos.
 Add the ability to sort the images by date, name, or size.
+
+
+## Demo
+https://user-images.githubusercontent.com/72618993/231239350-dee10cb5-1a9d-4c4c-98de-78e4169aa746.mp4
+
